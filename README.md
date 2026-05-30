@@ -7,5 +7,6 @@ For running this one required
 - STM32 Board
 - INA226 Current Sensor & Voltage Sensor
 - UART IC - FT232 RL 
-- MOTOR Driver 
+- MOTOR Driver
+
 Can be used to run Linear Actuators and Test them in real time. 
